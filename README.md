@@ -67,3 +67,21 @@
                          │ Server validates each submission     │
                          │ Removes synced items from queue      │
                          └──────────────────────────────────────┘
+
+## START SERVER
+<img width="1088" height="515" alt="Starting_Server" src="https://github.com/user-attachments/assets/3a9afef5-f194-4b1b-b278-4de46b9ee4de" />
+
+## MAKE SESSION AS PROFESSOR (TAKE NOTE OF SESSION ID  AND SIGNATURE)
+
+<img width="1520" height="324" alt="Creating_Session_AS_Professor" src="https://github.com/user-attachments/assets/d997240e-e269-422b-ab84-97b103c731fa" />
+
+## MARK ATTENDANCE AS STUDENT USIGN QR  Signature
+
+<img width="772" height="333" alt="Student_Marking_Attendance" src="https://github.com/user-attachments/assets/d6fa91c9-ae5f-46bf-84be-6ba0b1b6bb78" />
+
+## Check Attendance as professor on browser
+
+<img width="1733" height="719" alt="Attendance" src="https://github.com/user-attachments/assets/b452f051-b0fc-4a58-9ac7-f161ea99164f" />
+
+
+
