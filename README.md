@@ -1,4 +1,4 @@
-# MCOM_PROJECT
+# QR Attendance Tracker
 
 
                  ┌───────────────────────────┐
