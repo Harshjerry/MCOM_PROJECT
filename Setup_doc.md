@@ -15,7 +15,7 @@ Quick start (local demo)
     pip install -r requirements.txt
 
 2. Start server (runs on port 5000):
-    python3 server.py
+    python server.py
 
 3. Create a session (Professor) — example using curl:
     curl -X POST http://localhost:5000/create_session -H "Content-Type: application/json" -d '{"course":"Networks","duration_minutes":20}'
